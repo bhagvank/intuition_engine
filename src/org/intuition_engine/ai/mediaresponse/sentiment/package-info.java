@@ -5,4 +5,4 @@
  * @author bhagvan_kommadi
  *
  */
-package org.architectcorner.ai.mediaresponse.sentiment;
+package org.intuition_engine.ai.mediaresponse.sentiment;

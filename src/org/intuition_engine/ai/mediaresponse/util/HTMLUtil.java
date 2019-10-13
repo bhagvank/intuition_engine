@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.architectcorner.ai.mediaresponse.util;
+package org.intuition_engine.ai.mediaresponse.util;
 
 /**
  * @author bhagvan_kommadi
@@ -11,7 +11,7 @@ package org.architectcorner.ai.mediaresponse.util;
 import javax.swing.text.*;
 import javax.swing.text.html.*;
 
-import org.architectcorner.ai.mediaresponse.util.URLHelper;
+import org.intuition_engine.ai.mediaresponse.util.URLHelper;
 
 import java.net.*;
 import java.io.*;

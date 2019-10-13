@@ -5,4 +5,4 @@
  * @author bhagvan.kommadi
  *
  */
-package org.architectcorner.ai.intuition.knowledge;
+package org.intuition_engine.ai.intuition.knowledge;

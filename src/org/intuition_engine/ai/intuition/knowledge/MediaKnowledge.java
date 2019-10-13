@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.architectcorner.ai.intuition.knowledge;
+package org.intuition_engine.ai.intuition.knowledge;
 
 /**
  * @author bhagvan.kommadi

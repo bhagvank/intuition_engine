@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.architectcorner.ai.intution.management;
+package org.intuition_engine.ai.intution.management;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -11,13 +11,13 @@ import java.util.Map;
 import java.util.Set;
 import java.util.StringTokenizer;
 
-import org.architectcorner.ai.intuition.imageprocessing.SubImageRecognizer;
-import org.architectcorner.ai.intuition.knowledge.FactualKnowledge;
-import org.architectcorner.ai.intuition.knowledge.HumanExperience;
-import org.architectcorner.ai.intuition.knowledge.KnowledgeBase;
-import org.architectcorner.ai.intuition.knowledge.MediaKnowledge;
-import org.architectcorner.ai.intuition.nlp.NLPProcessor;
-import org.architectcorner.ai.mediaresponse.manager.MediaResponseManager;
+import org.intuition_engine.ai.intuition.imageprocessing.SubImageRecognizer;
+import org.intuition_engine.ai.intuition.knowledge.FactualKnowledge;
+import org.intuition_engine.ai.intuition.knowledge.HumanExperience;
+import org.intuition_engine.ai.intuition.knowledge.KnowledgeBase;
+import org.intuition_engine.ai.intuition.knowledge.MediaKnowledge;
+import org.intuition_engine.ai.intuition.nlp.NLPProcessor;
+import org.intuition_engine.ai.mediaresponse.manager.MediaResponseManager;
 /**
  * @author bhagvan.kommadi
  *

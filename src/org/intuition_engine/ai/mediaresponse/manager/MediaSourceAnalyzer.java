@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.architectcorner.ai.mediaresponse.manager;
+package org.intuition_engine.ai.mediaresponse.manager;
 
 import com.sun.syndication.feed.synd.SyndContent;
 import com.sun.syndication.feed.synd.SyndEntry;

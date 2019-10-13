@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.architectcorner.ai.mediaresponse.manager;
+package org.intuition_engine.ai.mediaresponse.manager;
 
 
 import com.sun.syndication.feed.synd.SyndEntry;
@@ -21,10 +21,10 @@ import java.util.Map;
 import java.util.Set;
 import java.util.Vector;
 
-import org.architectcorner.ai.mediaresponse.manager.MediaResponseManager;
-import org.architectcorner.ai.mediaresponse.manager.MediaSourceAnalyzer;
-import org.architectcorner.ai.mediaresponse.util.WebApp;
-import org.architectcorner.ai.mediaresponse.sentiment.SentimentAnalyzer;
+import org.intuition_engine.ai.mediaresponse.manager.MediaResponseManager;
+import org.intuition_engine.ai.mediaresponse.manager.MediaSourceAnalyzer;
+import org.intuition_engine.ai.mediaresponse.util.WebApp;
+import org.intuition_engine.ai.mediaresponse.sentiment.SentimentAnalyzer;
 
 /**
  * @author bhagvan_kommadi

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.architectcorner.ai.intuition.imageprocessing;
+package org.intuition_engine.ai.intuition.imageprocessing;
 
 import java.awt.image.BufferedImage;
 import java.net.URL;

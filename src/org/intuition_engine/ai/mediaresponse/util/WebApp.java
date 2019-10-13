@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.architectcorner.ai.mediaresponse.util;
+package org.intuition_engine.ai.mediaresponse.util;
 
 /**
  * @author bhagvan_kommadi
@@ -13,7 +13,7 @@ import java.net.*;
 import java.io.*;
 import javax.swing.text.html.*;
 
-import org.architectcorner.ai.mediaresponse.util.HTMLUtil;
+import org.intuition_engine.ai.mediaresponse.util.HTMLUtil;
 
 import javax.swing.text.*;
 

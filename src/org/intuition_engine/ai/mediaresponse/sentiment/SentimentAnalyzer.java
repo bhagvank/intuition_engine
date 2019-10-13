@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.architectcorner.ai.mediaresponse.sentiment;
+package org.intuition_engine.ai.mediaresponse.sentiment;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.architectcorner.ai.intuition.nlp;
+package org.intuition_engine.ai.intuition.nlp;
 
 /**
  * @author bhagvan.kommadi

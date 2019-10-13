@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.architectcorner.ai.mediaresponse.util;
+package org.intuition_engine.ai.mediaresponse.util;
 
 /**
  * @author bhagvan_kommadi
